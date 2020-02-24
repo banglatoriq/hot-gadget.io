@@ -7,7 +7,7 @@ a:link {
 }
 
 body{
-    font-family: 'Lato', ;
+    font-family: 'Poppins';
 }
 .container{
     margin-bottom: 30px;
@@ -28,6 +28,11 @@ body{
     height: 6px;
     border-radius: 10px;
 }
+.best-product{
+    margin-left: 30px;
+    width: 60px;
+    height: 345px;
+}
 .btn-design{
     background-color: black;
     color: white;
@@ -35,6 +40,7 @@ body{
     border-radius: 8px;
     padding: 7px 22px;
     margin-top: 10px;
+    
 }
 .see-all{
     color: #FFA616;
@@ -51,13 +57,12 @@ body{
     box-shadow: 5px 5px 10px lightgray;
 }
 .p-button{
-    margin-left: 70px;
+    margin-left: 45px;
 }
 #rectangle {
     width: 112px;
     height: 8px;
     background-image: linear-gradient(rgb(244, 248, 17), rgb(241, 158, 4));
-    border-radius: 8px;
   }
  
   .product-head h3{
@@ -135,4 +140,16 @@ body{
   .banner-img {
     width: 100% !important;
     margin-bottom: 40px;
+}
+.catagories-head{
+ font-size: 30;
+    font-weight: normal;
+}
+.navbar-nav a{
+    font-size: 18px;
+    font-weight: lighter;
+}
+.card-text{
+    font-size: 16px;
+    font-weight: lighter;
 }
