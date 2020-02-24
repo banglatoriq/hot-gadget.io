@@ -50,6 +50,11 @@ body{
     background-image: linear-gradient(rgb(244, 248, 17), rgb(241, 158, 4));
     border-radius: 8px;
   }
+ 
+  .product-head h3{
+        size: 15;
+      color: black;
+  }
   .cat1{
       width:220px;
       box-shadow: 5px 5px 10px lightgray;
